@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Action Aid</string>
+    <string name="title_activity_shild">Map</string>
+    <string name="title_activity_helping_hand">HelpingHandActivity</string>
+    <string name="title_activity_victim_location">Map</string>
+    <string name="facebook_app_id">138817893590359</string>
+    <string name="fb_login_protocol_scheme">fb138817893590359</string>
+    <string name="title_activity_protector">ProtectorActivity</string>
+
+</resources>
